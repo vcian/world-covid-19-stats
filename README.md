@@ -24,12 +24,13 @@
 
   [ViitorCloud](https://viitorcloud.com/) believes in an active community support so with such plugins we try to make life easy for developers & of course customers. Don't forget to subscribe our newsletter.
 
-## THIRD PARTY API INFOMATION == 
+## THIRD PARTY API INFOMATION 
+
 <ul>
-<li>* **API website:-** [https://disease.sh/](https://disease.sh/)</li>
-<li>* **API docs:-** [https://disease.sh/docs/](https://disease.sh/docs/)</li>
-<li>* **License:-** [https://github.com/disease-sh/API/blob/master/LICENSE](https://github.com/disease-sh/API/blob/master/LICENSE)</li>
-<li>* **Privacy policy:-** [https://github.com/disease-sh/API/blob/master/privacy.md](https://github.com/disease-sh/API/blob/master/privacy.md)</li>
+<li>API website: [https://disease.sh/](https://disease.sh/)</li>
+<li>API docs: [https://disease.sh/docs/](https://disease.sh/docs/)</li>
+<li>License: [https://github.com/disease-sh/API/blob/master/LICENSE](https://github.com/disease-sh/API/blob/master/LICENSE)</li>
+<li>Privacy policy: [https://github.com/disease-sh/API/blob/master/privacy.md](https://github.com/disease-sh/API/blob/master/privacy.md)</li>
 </ul>
 Please read privacy policy of this API carefully before using this plugin inside your website.
 
@@ -41,7 +42,9 @@ As this plugin functionality and data totally depends on third party apis.
 <li> Activate the plugin through the 'Plugins' menu in WordPress</li>
 <li> After activation, you can go through wordpress post/page backend.</li>
 </ul>
+
 ## Frequently Asked Questions 
+
 <ul>
 <li> How can I use this plugin?</li>
  <li>Put shortcode in any page or post and show in front.</li>
@@ -53,5 +56,7 @@ As this plugin functionality and data totally depends on third party apis.
 <li>1.1.0  * Support to custom post types</li>
 <li>1.1.0  * Compatible with your latest wordpress version</li>
 </ul>
+
 ## Upgrade Notice
+
 1.0.0 Added plugin support
